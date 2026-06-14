@@ -8,3 +8,10 @@ Funcionalidades:
 - Alteração de registros
 - Exclusão de registros
 - Consulta através de GridView
+
+## Tecnologias
+
+- ASP.NET Web Forms
+- C#
+- SQL Server
+- Bootstrap
